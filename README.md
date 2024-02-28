@@ -5,12 +5,18 @@ The primary goal of this project is to build a predictive model that can identif
 This project involves ETL of data from the csv file, cleaning, performing EDA, data visualization, feature extraction and classification model building using the machine learning algorithms available.
 # Pre-requsites
 Install the following packages to run the project.
-pip install pandas 
+pip install pandas
+
 pip install numpy 
+
 pip install seaborn 
+
 pip install matplotlib 
+
 pip install plotly 
+
 pip install scikit-learn 
+
 pip install imbalanced-learn 
 # Technology Stack
 Python scripting
